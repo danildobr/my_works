@@ -1,13 +1,11 @@
 # Игнорируемые папки
 приколы/
-работа с xlsx/
 python-telegram-bot-calendar-master/
 task_telegram_bot/
 
 
 # Игнорируемые файлы
 библиотека_AutoPy.py
-парсинг_ильдуботе.py
 скрипт отправки сообщений .py
 тайный санта.py
 
