@@ -1,5 +1,4 @@
 # Игнорируемые папки
-облако/
 приколы/
 работа с xlsx/
 python-telegram-bot-calendar-master/
@@ -18,3 +17,4 @@ __pycache__/
 *.tmp
 *.swp
 .env
+*.ini
